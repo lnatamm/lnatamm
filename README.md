@@ -1,5 +1,5 @@
 ### Olá! Me chamo Levi Natã
-- 🌱 Estou aprendendo C# e .NET Framework
+- 🌱 Estou estudando C# e .NET Framework
 - 📫 Contate-me: lnatamm25@gmail.com
 - 😄 Pronomes: Ele/Dele
 
