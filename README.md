@@ -1,7 +1,7 @@
-### Olá! Me chamo Levi Natã
-- 🌱 Estou estudando C# e .NET Framework
-- 📫 Contate-me: lnatamm25@gmail.com
-- 😄 Pronomes: Ele/Dele
+### Hello! I'm Levi Natã
+- 🌱 Studying C# e .NET Framework
+- 📫 Contact-me: lnatamm25@gmail.com
+- 😄 Pronoums: He/Him
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnatamm&show_icons=true&theme=github_dark_dimmed)
