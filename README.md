@@ -1,5 +1,5 @@
 ### Hello! I'm Levi Natã
-- 🌱 Studying C# e .NET Framework
+- 🌱 Studying C# and .NET Framework
 - 📫 Contact-me: lnatamm25@gmail.com
 - 😄 Pronoums: He/Him
 
